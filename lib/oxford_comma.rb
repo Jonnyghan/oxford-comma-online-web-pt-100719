@@ -9,5 +9,5 @@ if array.length == 1
   array.pop
   array << new
  end
- return array.join()
+ return array.join(",")
  end
