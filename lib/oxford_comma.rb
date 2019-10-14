@@ -5,6 +5,6 @@ if array.length == 1
   elsif array.length == 2 
   then array.join(" and ")
   elsif array.length == 3
-  then array.pop = 
+  then new = 
  end
  end
