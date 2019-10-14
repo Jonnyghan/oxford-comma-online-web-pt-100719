@@ -2,6 +2,7 @@ require 'pry'
 def oxford_comma(array)
 if array.length == 1 
   then array.join
-  elsif array.join(and)
+  elsif array.join("and")
+  elsif
  end
 end
