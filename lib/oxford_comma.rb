@@ -8,6 +8,6 @@ if array.length == 1
   then new = "and #{array[-1]}"
   array.pop
   array << new
-  return array.join(",")
+  return array.join(", ")
  end
  end
