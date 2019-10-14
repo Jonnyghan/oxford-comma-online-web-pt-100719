@@ -5,4 +5,3 @@ if array.length == 1
   elsif array.join("and")
  end
  end
-end
